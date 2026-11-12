@@ -15,7 +15,7 @@
     <Product>Global Mouse &amp; Keyboard</Product>
     <AssemblyTitle>Global Mouse &amp; Keyboard</AssemblyTitle>
     <Description>Share one mouse and keyboard across several Windows computers.</Description>
-    <Copyright>MIT License</Copyright>
+    <Copyright>Copyright (C) Global Mouse &amp; Keyboard contributors. Licensed under GPL-3.0-only.</Copyright>
     <DebugType>embedded</DebugType>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
